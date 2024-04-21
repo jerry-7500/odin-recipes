@@ -1,1 +1,1 @@
-# odin-recipes
+This is a HTML practice project done to practice the basics of HTML language to create a website. This project is executed on April 21, 2024. All the learnings are well documented in Notion, in case for future reference.
